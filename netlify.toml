@@ -1,0 +1,12 @@
+[images]
+  remote_images = ["https://images.unsplash.com/**", "https://marvel-b1-cdn.bc0a.com/**", "https://www.justbarefoods.com/**", "http://redacrefarmocala.com/**", "https://www.drapervalleyfarms.com/**"]
+
+[build]
+  command = "bun run build"
+  publish = "out"
+
+[build.environment]
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
