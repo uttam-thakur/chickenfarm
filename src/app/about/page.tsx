@@ -38,23 +38,23 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold text-[#B23F00] mb-6">
               Our Story
             </h2>
-            <p className="text-gray-700 mb-4">
-              Farm Fresh Poultry began over 30 years ago when the Johnson family
-              decided to turn their small backyard flock into a business that
-              could serve their local community with fresh, quality poultry
-              products.
-            </p>
-            <p className="text-gray-700 mb-4">
-              What started with just 50 chickens has grown into a thriving farm
-              operation with thousands of birds, all raised with the same care
-              and attention to detail that defined our humble beginnings.
-            </p>
-            <p className="text-gray-700">
-              Today, the second generation of the Johnson family continues the
-              tradition of sustainable farming while incorporating modern
-              practices that ensure the highest standards of quality and safety
-              for our customers.
-            </p>
+  <p className="text-gray-700 mb-4">
+  Farm Fresh Poultry began over 25 years ago when the Sharma family decided to
+  turn their small backyard flock into a business that could serve the local
+  community with fresh, hygienic, and affordable poultry products.
+</p>
+<p className="text-gray-700 mb-4">
+  What started with just a few dozen chickens has now grown into a thriving farm
+  with thousands of birds, all raised with the same care and commitment to
+  quality that marked our humble beginnings.
+</p>
+<p className="text-gray-700">
+  Today, the second generation of the Sharma family continues the tradition of
+  ethical and sustainable farming, while adopting modern practices that ensure
+  the highest standards of freshness, nutrition, and safety for families across
+  India.
+</p>
+
           </div>
         </div>
       </section>
@@ -234,21 +234,21 @@ export default function AboutPage() {
 // Sample team data
 const teamMembers = [
   {
-    name: "Robert Johnson",
+    name: "Rajesh Sharma",
     role: "Founder & Farm Manager",
     bio: "With over 30 years of poultry farming experience, Robert oversees all farm operations and maintains our high standards of quality.",
     image:
       "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80",
   },
   {
-    name: "Sarah Johnson",
+    name: "Rani Prasad",
     role: "Marketing & Sales Director",
     bio: "Sarah handles our direct-to-consumer sales, farmers market presence, and relationships with local restaurants and grocery stores.",
     image:
       "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2061&q=80",
   },
   {
-    name: "Michael Johnson",
+    name: "Mahendra Sharma",
     role: "Poultry Specialist",
     bio: "Michael has a degree in animal husbandry and ensures our chickens receive proper nutrition, care, and an optimal living environment.",
     image:

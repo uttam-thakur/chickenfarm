@@ -173,7 +173,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg font-bold text-[#E85D04]">
-                    ${product.price.toFixed(2)} / {product.unit}
+                    Rs {product.price.toFixed(2)} / {product.unit}
                   </p>
                 </CardContent>
                 <CardFooter>
@@ -320,7 +320,7 @@ const products = [
     id: 1,
     name: "Whole Chicken",
     description: "Farm-raised, free-range whole chicken",
-    price: 12.99,
+    price: 199,
     unit: "kg",
     image:
       "https://www.justbarefoods.com/wp-content/uploads/2023/02/52829_JB_BSB_18_oz_Front_resized1-e16766592956651.webp",
@@ -329,7 +329,7 @@ const products = [
     id: 2,
     name: "Chicken Breast",
     description: "Boneless, skinless chicken breast",
-    price: 14.99,
+    price: 169,
     unit: "kg",
     image:
       "https://www.justbarefoods.com/wp-content/uploads/2023/02/52829_JB_BSB_18_oz_Front_resized1-e16766592956651.webp",
@@ -338,7 +338,7 @@ const products = [
     id: 3,
     name: "Chicken Drumsticks",
     description: "Juicy and flavorful chicken drumsticks",
-    price: 9.99,
+    price: 229,
     unit: "kg",
     image:
       "https://marvel-b1-cdn.bc0a.com/f00000000202513/www.fosterfarms.com/wp-content/uploads/508-7568-451013-RTC-CON-DRMSTCKS-3D_H.png",
@@ -347,7 +347,7 @@ const products = [
     id: 4,
     name: "Farm Fresh Eggs",
     description: "Organic, free-range chicken eggs",
-    price: 4.99,
+    price: 129,
     unit: "dozen",
     image:
       "https://images.unsplash.com/photo-1598965675045-45c5e72c7d05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",

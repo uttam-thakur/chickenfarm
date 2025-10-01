@@ -111,8 +111,8 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-medium text-gray-800">Address</h3>
                   <p className="text-gray-600">
-                    123 Farm Road, Countryside<br />
-                    Poultry County, PC 12345
+                    Mangalpur Bazar Rd, Ranigaunj<br />
+                  Poultry County, 713347
                   </p>
                 </div>
               </div>
@@ -121,7 +121,7 @@ export default function ContactPage() {
                 <Phone className="mr-3 h-5 w-5 text-orange-600 mt-0.5" />
                 <div>
                   <h3 className="font-medium text-gray-800">Phone</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">91 8900457381</p>
                 </div>
               </div>
 
@@ -129,7 +129,7 @@ export default function ContactPage() {
                 <Mail className="mr-3 h-5 w-5 text-orange-600 mt-0.5" />
                 <div>
                   <h3 className="font-medium text-gray-800">Email</h3>
-                  <p className="text-gray-600">info@farmfreshpoultry.com</p>
+                  <p className="text-gray-600">farmfreshpoultry23@gmail.com</p>
                 </div>
               </div>
 
@@ -140,7 +140,7 @@ export default function ContactPage() {
                   <p className="text-gray-600">
                     Monday - Friday: 8AM - 5PM<br />
                     Saturday: 9AM - 3PM<br />
-                    Sunday: Closed
+                    Sunday: 9AM - 8PM
                   </p>
                 </div>
               </div>

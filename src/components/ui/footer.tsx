@@ -72,17 +72,17 @@ export function Footer() {
               <div className="flex items-start">
                 <MapPin className="mr-2 h-5 w-5 text-orange-600 mt-0.5" />
                 <span className="text-gray-600">
-                  123 Farm Road, Countryside<br />
-                  Poultry County, PC 12345
+                  Mangalpur Bazar Rd, Ranigaunj<br />
+                  Poultry County, 713347
                 </span>
               </div>
               <div className="flex items-center">
                 <Phone className="mr-2 h-5 w-5 text-orange-600" />
-                <span className="text-gray-600">(555) 123-4567</span>
+                <span className="text-gray-600">91 8900457381</span>
               </div>
               <div className="flex items-center">
                 <Mail className="mr-2 h-5 w-5 text-orange-600" />
-                <span className="text-gray-600">info@farmfreshpoultry.com</span>
+                <span className="text-gray-600">farmfreshpoultry23@gmail.com</span>
               </div>
             </div>
           </div>
